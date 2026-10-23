@@ -254,6 +254,7 @@ This work was carried out as part of the *Project Work – 2* course (Course Cod
 | Anand Naik H | 1BM22AI013 | Team Member |
 | Amogh G | 1BM22AI011 | Team Member |
 | Om Arya B S | 1BM22AI086 | Team Member |
+| Chetan Nag R | 1BM22AI037 | Team Member |
 
 **Project guide:** Prof. Spoorthi G S, Assistant Professor, Department of Machine Learning, BMSCE.
 
@@ -287,7 +288,7 @@ If you use this work or build upon it, please cite:
 ```bibtex
 @misc{chiranthan2025ecgeeg,
   title        = {ECG and EEG Based Biometric Cryptography Using Machine Learning},
-  author       = {C M  Chiranthan Gowda, and Anand Naik H, and Amogh G, and Om Arya B S},
+  author       = {C M  Chiranthan Gowda, and Anand Naik H, and Amogh G, and Om Arya B S, and Chetan Nag R},
   year         = {2025},
   institution  = {B.M.S. College of Engineering, Bengaluru},
   howpublished = {\url{https://github.com/Chiranthan7/ECG-and-EEG-based-Biometric-Encryption-using-Machine-Learning}},
