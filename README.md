@@ -56,11 +56,11 @@ This project addresses both gaps by building a system where:
 
 The system follows a modular pipeline-based design with three primary layers: a Data Acquisition Layer that ingests raw signals, a Processing & Logic Layer that handles feature extraction, fusion, classification, and cryptography, and a Presentation Layer built on Gradio.
 
-![System Architecture](docs/architecture.png)
+![System Architecture](./docs/architecture.png)
 
 ### Authentication Flow
 
-![Activity Diagram](docs/activity_diagram.png)
+![Activity Diagram](./docs/activity_diagram.png)
 
 ---
 
@@ -103,7 +103,7 @@ The system was evaluated on a 5-subject ECG + EEG dataset (40 beats per subject,
 | Feature dimension | 89 (51 ECG + 38 EEG) |
 | Mean inference confidence | 0.94 |
 
-![Confusion Matrix](docs/confusion_matrix.png)
+![Confusion Matrix](./docs/confusion_matrix.png)
 
 ### Cryptographic Outcome
 
@@ -132,11 +132,11 @@ A Gradio web interface allows the user to enter a claimed person ID and upload a
 | | |
 |---|---|
 | **Successful authentication** | **Failed authentication (imposter)** |
-| ![Success](screenshots/auth_success.png) | ![Failure](screenshots/auth_failed.png) |
+| ![Success](./screenshots/auth_success.png) | ![Failure](./screenshots/auth_failed.png) |
 
 The interface itself:
 
-![Gradio Interface](screenshots/gradio_interface.png)
+![Gradio Interface](./screenshots/gradio_interface.png)
 
 ---
 
